@@ -1,7 +1,6 @@
 # Arjunan K
 Academic Tutor
 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k&theme=dark&hide_border=true)<br/>
