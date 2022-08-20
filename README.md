@@ -1,5 +1,5 @@
 # Arjunan K
-#### I’m interested in Data
+#### I’m a Data Guy
 
 #### I’m currently learning Data Analytics
 
