@@ -5,9 +5,10 @@
 
 
 <h1 align="center">Arjunan K</h1>
-<h5 align="center">I’m a Data Guy</h4>
-<h5 align="center">I’m currently learning Data Analytics</h4>
-<h5 align="center">I’m looking to collaborate on Data Science projects</h4>
+<h5 align="center">I’m a Data Guy</h5>
+<h5 align="center">I’m currently learning Data Analytics</h5>
+<h5 align="center">I’m looking to collaborate on Data Science projects</h5>
+<h5 align="center"></h5>
 
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </-->
