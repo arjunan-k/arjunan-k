@@ -6,8 +6,8 @@
 
 <h1 align="center">Arjunan K</h1>
 <h5 align="center">I’m a Data Guy</h5>
+<h5 align="center">I’m looking to collaborate on Data Projects</h5>
 <h5 align="center">I’m currently learning Data Science & Machine Learning</h5>
-<h5 align="center">I’m looking to collaborate on Data Science projects</h5>
 <h5 align="center"></h5>
 
 
