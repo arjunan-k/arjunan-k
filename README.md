@@ -1,29 +1,78 @@
-
-<p align="center">
-  <img src="assets/header.png" alt="header"/>
-</p>
-
-
-<h1 align="center">Arjunan K</h1>
-<h5 align="center">I’m a Data Guy</h5>
-<h5 align="center">I’m looking to collaborate on Data Projects</h5>
-<h5 align="center">I’m currently learning Data Science & Machine Learning</h5>
-<h5 align="center"></h5>
-
-
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </-->
-
-![graph ](https://activity-graph.herokuapp.com/graph?color=87cefa&username=arjunan-k&theme=xcode&hide_border=true&area=true)
- 
-
-
-
-
 <!-- <p align="center">
   <img align="center" width="25%" src="./assets/profile.png" alt="header"/>
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p> </-->
+
+
+
+<!-- ----------- HEAD SECTION ------------ -->
+
+![banner.png](./assets/header.png)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arjunan-K;+A+Data+Science+Enthusiast;Full+Stack+Data+Guy+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+An+Open+Source+Contributor+☀;">
+</p>
+
+<hr>
+
+## About
+
+I am Arjunan K. I am a Undergraduate student from St. Thomas College(University of Calicut) Kerala, India.I am mainly focused towards Data Science and Machine Learning and have done my projects and internships under the same.I’m looking to collaborate on Data Projects. My other interests aside from Data Science are Cloud, Teaching and Mentoring.
+
+<table>
+  <tr>
+      <td><a href="https://github.com/arjunan-k"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/arjunan_k"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/arjunan-k/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:arjunank680620@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+<!-- ## Timeline
+- Academic Tutor
+- Software Engineer [CatalyzeX](https://www.catalyzex.com/) (Sept 2022 - Present)
+- Software Engineer [PropertyLoop](https://propertyloop.co.uk/more-info) (Aug 2022 - Sept 2022)
+- MLH Fellow @Solana, [MLH Fellowship](https://fellowship.mlh.io/) (May 2022 - Aug 2022)
+- Student Developer, [Google Summer of code](https://summerofcode.withgoogle.com/) (May 2022 - Sept 2022)</-->
+
+
+## Github Stats
+
+![](https://activity-graph.herokuapp.com/graph?username=arjunan-k&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&count_private=true&show_icons=true&theme=light" alt="Yash's github stats"/>
+
+
+
+<hr>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
