@@ -36,44 +36,19 @@ I am Arjunan K. I am a Undergraduate student from St. Thomas College(University 
 - Software Engineer [PropertyLoop](https://propertyloop.co.uk/more-info) (Aug 2022 - Sept 2022)
 - MLH Fellow @Solana, [MLH Fellowship](https://fellowship.mlh.io/) (May 2022 - Aug 2022)
 - Student Developer, [Google Summer of code](https://summerofcode.withgoogle.com/) (May 2022 - Sept 2022)</-->
-
+<hr>
 
 ## Github Stats
 
 ![](https://activity-graph.herokuapp.com/graph?username=arjunan-k&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k">
+![](https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k&theme=dark&hide_border=true)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&count_private=true&show_icons=true&theme=light" alt="Yash's github stats"/>
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -84,9 +59,4 @@ I am Arjunan K. I am a Undergraduate student from St. Thomas College(University 
 </p>
 <p align="center"> 
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&theme=outrun&show_icons=true&count_private=true"/>
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&layout=compact&hide=html,css&theme=outrun" />
-</ -->
-<!-- This is contributions box -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k&theme=dark&hide_border=true)<br/> -->
-<!-- most used languages -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&layout=compact&hide=html,css&theme=outrun" /> </-->
