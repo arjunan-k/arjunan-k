@@ -19,7 +19,7 @@
 
 ## About
 
-I am Arjunan K. I am a Undergraduate student from St. Thomas College(University of Calicut) Kerala, India.I am mainly focused towards Data Science and Machine Learning and have done my projects and internships under the same.I’m looking to collaborate on Data Projects. My other interests aside from Data Science are Cloud, Teaching and Mentoring.
+I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (University of Calicut) Kerala, India. I am mainly focused towards Data Science and Machine Learning and have done my projects and internships under the same. I’m looking to collaborate on Data Projects. My other interests aside from Data Science are Cloud, Teaching and Mentoring.
 
 <table>
   <tr>
