@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arjunan-K;+A+Data+Science+Enthusiast;Full+Stack+Data+Guy+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+An+Open+Source+Contributor+☀;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arjunan-K;+A+Data+Scientist;Full+Stack+Data+Guy+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+An+Open+Source+Contributor+☀;">
 </p>
 
 <hr>
@@ -23,7 +23,6 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 
 <table>
   <tr>
-      <td><a href="https://github.com/arjunan-k"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
     <td><a href="https://twitter.com/arjunan_k"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
     <td><a href="https://www.linkedin.com/in/arjunan-k/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:arjunank680620@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
