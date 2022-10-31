@@ -40,7 +40,7 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark" alt="Arjunan K's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
 <hr>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -50,13 +50,9 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 
 
 
-<!-- visitors -->
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunan-k&color=blueviolet) -->
 
 
-
-
-
+<!--
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
@@ -65,18 +61,4 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/)
-
-
-
-
-
-
-
-
-<!-- <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=arjunan-k&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true" />
-</p>
-<p align="center"> 
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&theme=outrun&show_icons=true&count_private=true"/>
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&layout=compact&hide=html,css&theme=outrun" /> -->
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/) --/>
