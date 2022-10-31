@@ -39,6 +39,9 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 
 ## Github Stats
 
+![](https://komarev.com/ghpvc/?username=arjunan-k&color=blueviolet)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=arjunan-k)
+
 ![](https://activity-graph.herokuapp.com/graph?username=arjunan-k&theme=react-dark&hide_border=true&area=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k&theme=dark&hide_border=true)<br/>
@@ -50,16 +53,29 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
+
+
+
+
+
+
 <!-- visitors -->
-<!-- ![](https://komarev.com/ghpvc/?username=arjunan-k&color=blueviolet) -->
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunan-k) -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=arjunan-k) -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunan-k&color=blueviolet) -->
 
 
 
-<!-- <p align="center"> 
+
+
+
+
+
+
+
+
+
+<!-- <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=arjunan-k&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true" />
 </p>
 <p align="center"> 
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&theme=outrun&show_icons=true&count_private=true"/>
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&layout=compact&hide=html,css&theme=outrun" /> </-->
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&layout=compact&hide=html,css&theme=outrun" /> -->
