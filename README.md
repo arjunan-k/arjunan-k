@@ -21,14 +21,6 @@
 
 I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (University of Calicut) Kerala, India. I am mainly focused towards Data Science and Machine Learning and have done my projects and internships under the same. I’m looking to collaborate on Data Projects. My other interests aside from Data Science are Cloud, Teaching and Mentoring.
 
-<table>
-  <tr>
-    <td><a href="https://twitter.com/arjunan_k"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
-    <td><a href="https://www.linkedin.com/in/arjunan-k/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-    <td><a href="mailto:arjunank680620@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
-  </tr>
-</table>
-
 <!-- ## Timeline
 - Academic Tutor
 - Software Engineer [CatalyzeX](https://www.catalyzex.com/) (Sept 2022 - Present)
