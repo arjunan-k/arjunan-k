@@ -50,7 +50,7 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=arjunan-k&color=blueviolet)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunan-k)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunan-k) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arjunan-k)
 
 
