@@ -10,10 +10,13 @@
 
 ![banner.png](./assets/header.png)
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arjunan-K;+A+Data+Scientist;Full+Stack+Data+Guy+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+An+Open+Source+Contributor+☀;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Arjunan+K;+A+Data+Scientist;Full+Stack+Data+Guy+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+An+Open+Source+Contributor+☀;">
 </p>
+
+<!-- <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4500&color=447FF7&background=FFFFFF00&vCenter=true&width=650&height=55&lines=Hey!+It's+Arjunan+K;I+am+a+Software+Developer;I+am+from+India;I+have+1%2B+years+of+experience;Frontend+and+Backend+development" alt="Arjunan K" width="650" height="55">
+</p> -->
 
 <hr>
 
@@ -35,30 +38,20 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=arjunan-k)
 
 ![](https://activity-graph.herokuapp.com/graph?username=arjunan-k&theme=react-dark&hide_border=true&area=true)
+ 
+<!-- use width to increase the size -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjunan-k&theme=dark&hide_border=true)<br/>
+<img width="46%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=arjunan-k&theme=dark&hide_border=true">
+
 <hr>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-
-
-
-
-
-
-<!--
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/) --/>
+<p align="center">
+<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
