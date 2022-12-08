@@ -39,10 +39,7 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 
 ![](https://activity-graph.herokuapp.com/graph?username=arjunan-k&theme=react-dark&hide_border=true&area=true)
  
-<!-- use width to increase the size -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
 
