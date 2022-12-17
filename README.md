@@ -24,12 +24,6 @@
 
 I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (University of Calicut) Kerala, India. I am mainly focused towards Data Science and Machine Learning and have done my projects and internships under the same. I’m looking to collaborate on Data Projects. My other interests aside from Data Science are Cloud, Teaching and Mentoring.
 
-<!-- ## Timeline
-- Academic Tutor
-- Software Engineer [CatalyzeX](https://www.catalyzex.com/) (Sept 2022 - Present)
-- Software Engineer [PropertyLoop](https://propertyloop.co.uk/more-info) (Aug 2022 - Sept 2022)
-- MLH Fellow @Solana, [MLH Fellowship](https://fellowship.mlh.io/) (May 2022 - Aug 2022)
-- Student Developer, [Google Summer of code](https://summerofcode.withgoogle.com/) (May 2022 - Sept 2022)</-->
 <hr>
 
 ## Github Stats
@@ -41,14 +35,12 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
  
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunan-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arjunan-k&theme=dark&hide_border=true">
-
-<hr>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<p align="center">
-<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+<p align='center'>
+<img width="425px" src="https://github-readme-streak-stats.herokuapp.com?user=arjunan-k&theme=dark&hide_border=true">&nbsp; &nbsp;
+<img width="425px" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
 </p>
+
+<p align="center"><img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
+
+<p align='center'><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/></p>
