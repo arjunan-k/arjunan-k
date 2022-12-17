@@ -37,8 +37,8 @@ I am Arjunan K. I'm an Undergraduate student from the St. Thomas College (Univer
 
 
 <p align='center'>
-<img width="425px" src="https://github-readme-streak-stats.herokuapp.com?user=arjunan-k&theme=dark&hide_border=true">&nbsp; &nbsp;
-<img width="425px" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=arjunan-k&theme=dark&hide_border=true">&nbsp; &nbsp;
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=arjunan-k&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Arjunan K's GitHub Stat">
 </p>
 
 <p align="center"><img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
